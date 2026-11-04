@@ -1,0 +1,2729 @@
+{
+  "entries": [
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 50.473,
+        "cloudiness": 95.046,
+        "fog_density": 14.416,
+        "instruction_fire_distance_m": 57.946,
+        "obstacle_distance_m": 64.947,
+        "precipitation": 42.333,
+        "precipitation_deposits": 82.77,
+        "sun_altitude_angle": -16.344,
+        "sun_azimuth_angle": 197.854,
+        "wetness": 2.756,
+        "wind_intensity": 75.351
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 51.526,
+        "cloudiness": 32.973,
+        "fog_density": 78.843,
+        "instruction_fire_distance_m": 32.128,
+        "obstacle_distance_m": 76.28,
+        "precipitation": 13.404,
+        "precipitation_deposits": 40.311,
+        "sun_altitude_angle": -53.378,
+        "sun_azimuth_angle": 94.433,
+        "wetness": 75.036,
+        "wind_intensity": 28.041
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 49.408,
+        "cloudiness": 98.074,
+        "fog_density": 96.166,
+        "instruction_fire_distance_m": 48.992,
+        "obstacle_distance_m": 83.298,
+        "precipitation": 27.689,
+        "precipitation_deposits": 16.065,
+        "sun_altitude_angle": 84.587,
+        "sun_azimuth_angle": 185.785,
+        "wetness": 11.587,
+        "wind_intensity": 62.349
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": -12.62,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -12.62
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 61.067,
+        "cloudiness": 61.3,
+        "fog_density": 91.73,
+        "instruction_fire_distance_m": 21.584,
+        "obstacle_distance_m": 82.287,
+        "precipitation": 45.934,
+        "precipitation_deposits": 6.235,
+        "sun_altitude_angle": 25.439,
+        "sun_azimuth_angle": 306.948,
+        "wetness": 59.294,
+        "wind_intensity": 26.01
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 63.595,
+        "cloudiness": 50.95,
+        "fog_density": 51.089,
+        "instruction_fire_distance_m": 50.121,
+        "obstacle_distance_m": 51.834,
+        "precipitation": 81.963,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.677,
+        "sun_azimuth_angle": 68.982,
+        "wetness": 80.236,
+        "wind_intensity": 19.132
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 26.977,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 26.977
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 33.262,
+        "cloudiness": 85.523,
+        "fog_density": 86.128,
+        "instruction_fire_distance_m": 55.061,
+        "obstacle_distance_m": 77.753,
+        "precipitation": 27.405,
+        "precipitation_deposits": 0.709,
+        "sun_altitude_angle": 26.23,
+        "sun_azimuth_angle": 259.167,
+        "wetness": 83.557,
+        "wind_intensity": 28.188
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 38.609,
+        "cloudiness": 63.933,
+        "fog_density": 80.505,
+        "instruction_fire_distance_m": 58.547,
+        "obstacle_distance_m": 52.042,
+        "precipitation": 48.221,
+        "precipitation_deposits": 89.472,
+        "sun_altitude_angle": -13.911,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 2.449,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 124.027,
+      "selection_fitness": -0.507,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -0.507
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 66.764,
+        "cloudiness": 82.683,
+        "fog_density": 88.552,
+        "instruction_fire_distance_m": 46.414,
+        "obstacle_distance_m": 59.644,
+        "precipitation": 76.852,
+        "precipitation_deposits": 21.167,
+        "sun_altitude_angle": 59.629,
+        "sun_azimuth_angle": 22.578,
+        "wetness": 82.549,
+        "wind_intensity": 16.451
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 46.667,
+      "selection_fitness": -93.333,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -93.333
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 45.006,
+        "cloudiness": 31.674,
+        "fog_density": 69.134,
+        "instruction_fire_distance_m": 27.143,
+        "obstacle_distance_m": 71.7,
+        "precipitation": 0.582,
+        "precipitation_deposits": 26.249,
+        "sun_altitude_angle": -14.186,
+        "sun_azimuth_angle": 38.132,
+        "wetness": 63.316,
+        "wind_intensity": 38.042
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 0,
+      "candidate_id": "town12_2554_false_scene_02_gen00_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 59.012,
+        "cloudiness": 65.387,
+        "fog_density": 43.123,
+        "instruction_fire_distance_m": 54.693,
+        "obstacle_distance_m": 90.571,
+        "precipitation": 81.027,
+        "precipitation_deposits": 34.179,
+        "sun_altitude_angle": 7.86,
+        "sun_azimuth_angle": 70.667,
+        "wetness": 99.614,
+        "wind_intensity": 24.322
+      },
+      "origin": {
+        "type": "initial"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 33.262,
+        "cloudiness": 85.523,
+        "fog_density": 86.128,
+        "instruction_fire_distance_m": 55.061,
+        "obstacle_distance_m": 77.753,
+        "precipitation": 27.405,
+        "precipitation_deposits": 26.44,
+        "sun_altitude_angle": 27.462,
+        "sun_azimuth_angle": 28.771,
+        "wetness": 63.517,
+        "wind_intensity": 28.188
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": -63.511,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -63.511
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 59.012,
+        "cloudiness": 65.727,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 81.027,
+        "precipitation_deposits": 68.209,
+        "sun_altitude_angle": 8.262,
+        "sun_azimuth_angle": 70.667,
+        "wetness": 98.055,
+        "wind_intensity": 24.322
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 47.47,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 47.47
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 51.544,
+        "cloudiness": 93.933,
+        "fog_density": 51.241,
+        "instruction_fire_distance_m": 57.946,
+        "obstacle_distance_m": 64.843,
+        "precipitation": 42.333,
+        "precipitation_deposits": 82.77,
+        "sun_altitude_angle": -16.344,
+        "sun_azimuth_angle": 197.854,
+        "wetness": 82.408,
+        "wind_intensity": 75.754
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 61.067,
+        "cloudiness": 31.792,
+        "fog_density": 91.73,
+        "instruction_fire_distance_m": 21.584,
+        "obstacle_distance_m": 82.407,
+        "precipitation": 45.934,
+        "precipitation_deposits": 5.996,
+        "sun_altitude_angle": -52.039,
+        "sun_azimuth_angle": 264.953,
+        "wetness": 58.873,
+        "wind_intensity": 26.052
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 59.012,
+        "cloudiness": 64.014,
+        "fog_density": 43.123,
+        "instruction_fire_distance_m": 54.353,
+        "obstacle_distance_m": 94.743,
+        "precipitation": 70.783,
+        "precipitation_deposits": 90.86,
+        "sun_altitude_angle": 7.902,
+        "sun_azimuth_angle": 70.667,
+        "wetness": 98.476,
+        "wind_intensity": 24.322
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 46.983,
+        "cloudiness": 31.674,
+        "fog_density": 69.134,
+        "instruction_fire_distance_m": 27.143,
+        "obstacle_distance_m": 71.7,
+        "precipitation": 0.582,
+        "precipitation_deposits": 0.745,
+        "sun_altitude_angle": -15.418,
+        "sun_azimuth_angle": 261.273,
+        "wetness": 83.356,
+        "wind_intensity": 38.042
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": -59.937,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -59.937
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 63.595,
+        "cloudiness": 50.609,
+        "fog_density": 51.089,
+        "instruction_fire_distance_m": 50.121,
+        "obstacle_distance_m": 87.322,
+        "precipitation": 81.963,
+        "precipitation_deposits": 34.299,
+        "sun_altitude_angle": 51.276,
+        "sun_azimuth_angle": 68.982,
+        "wetness": 80.265,
+        "wind_intensity": 19.132
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 63.059,
+        "cloudiness": 52.038,
+        "fog_density": 14.264,
+        "instruction_fire_distance_m": 48.016,
+        "obstacle_distance_m": 51.937,
+        "precipitation": 81.377,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 50.574,
+        "sun_azimuth_angle": 74.214,
+        "wetness": 1.437,
+        "wind_intensity": 18.715
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 8.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 8.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 51.526,
+        "cloudiness": 62.482,
+        "fog_density": 78.843,
+        "instruction_fire_distance_m": 32.128,
+        "obstacle_distance_m": 76.16,
+        "precipitation": 13.404,
+        "precipitation_deposits": 40.556,
+        "sun_altitude_angle": 24.1,
+        "sun_azimuth_angle": 94.433,
+        "wetness": 75.457,
+        "wind_intensity": 27.998
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 1,
+      "candidate_id": "town12_2554_false_scene_02_gen01_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 38.609,
+        "cloudiness": 65.305,
+        "fog_density": 80.505,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 48.221,
+        "precipitation_deposits": 32.774,
+        "sun_altitude_angle": -13.952,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 2.621,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 172.905,
+      "selection_fitness": 16.905,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 16.905
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 58.93,
+        "cloudiness": 49.626,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 81.985,
+        "precipitation_deposits": 68.209,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 98.42,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 46.667,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 46.667
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 45.006,
+        "cloudiness": 65.088,
+        "fog_density": 69.418,
+        "instruction_fire_distance_m": 27.143,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.517,
+        "sun_altitude_angle": 9.481,
+        "sun_azimuth_angle": 38.132,
+        "wetness": 63.316,
+        "wind_intensity": 38.042
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 134.933,
+      "selection_fitness": 75.866,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 75.866
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 38.609,
+        "cloudiness": 61.495,
+        "fog_density": 91.631,
+        "instruction_fire_distance_m": 58.527,
+        "obstacle_distance_m": 83.809,
+        "precipitation": 48.221,
+        "precipitation_deposits": 32.774,
+        "sun_altitude_angle": 25.223,
+        "sun_azimuth_angle": 230.872,
+        "wetness": 1.321,
+        "wind_intensity": 27.865
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 63.595,
+        "cloudiness": 50.95,
+        "fog_density": 47.727,
+        "instruction_fire_distance_m": 48.051,
+        "obstacle_distance_m": 51.834,
+        "precipitation": 81.361,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 50.674,
+        "sun_azimuth_angle": 69.157,
+        "wetness": 80.236,
+        "wind_intensity": 19.132
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 63.677,
+        "cloudiness": 67.051,
+        "fog_density": 51.089,
+        "instruction_fire_distance_m": 50.121,
+        "obstacle_distance_m": 51.834,
+        "precipitation": 81.005,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 52.426,
+        "sun_azimuth_angle": 70.699,
+        "wetness": 80.236,
+        "wind_intensity": 18.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 59.012,
+        "cloudiness": 32.312,
+        "fog_density": 37.946,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 72.198,
+        "precipitation": 0.398,
+        "precipitation_deposits": 23.389,
+        "sun_altitude_angle": -15.405,
+        "sun_azimuth_angle": 70.667,
+        "wetness": 98.055,
+        "wind_intensity": 24.322
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 61.067,
+        "cloudiness": 65.943,
+        "fog_density": 80.604,
+        "instruction_fire_distance_m": 21.858,
+        "obstacle_distance_m": 50.42,
+        "precipitation": 45.934,
+        "precipitation_deposits": 6.235,
+        "sun_altitude_angle": -13.736,
+        "sun_azimuth_angle": 306.948,
+        "wetness": 59.294,
+        "wind_intensity": 66.542
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 64.844,
+        "cloudiness": 52.038,
+        "fog_density": 17.626,
+        "instruction_fire_distance_m": 50.086,
+        "obstacle_distance_m": 51.937,
+        "precipitation": 78.092,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.577,
+        "sun_azimuth_angle": 74.039,
+        "wetness": 1.437,
+        "wind_intensity": 18.715
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 101.333,
+      "selection_fitness": -11.183,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -11.183
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 59.536,
+        "cloudiness": 65.305,
+        "fog_density": 79.577,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 48.755,
+        "precipitation_deposits": 32.774,
+        "sun_altitude_angle": -13.952,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 99.65,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 108.117,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 108.117
+    },
+    {
+      "generation": 2,
+      "candidate_id": "town12_2554_false_scene_02_gen02_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 38.084,
+        "cloudiness": 65.727,
+        "fog_density": 39.159,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 80.494,
+        "precipitation_deposits": 68.209,
+        "sun_altitude_angle": 8.262,
+        "sun_azimuth_angle": 70.667,
+        "wetness": 0.462,
+        "wind_intensity": 24.322
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": -8.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -8.0
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 44.246,
+        "cloudiness": 49.626,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 52.25,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 81.985,
+        "precipitation_deposits": 68.461,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 63.776,
+        "wind_intensity": 38.937
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 27.987,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 27.987
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 59.536,
+        "cloudiness": 65.305,
+        "fog_density": 50.289,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 49.019,
+        "precipitation_deposits": 31.318,
+        "sun_altitude_angle": 50.696,
+        "sun_azimuth_angle": 210.609,
+        "wetness": 80.805,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 164.0,
+      "selection_fitness": 16.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 16.0
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 59.012,
+        "cloudiness": 65.727,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 52.152,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 81.027,
+        "precipitation_deposits": 67.78,
+        "sun_altitude_angle": 8.262,
+        "sun_azimuth_angle": 70.667,
+        "wetness": 98.055,
+        "wind_intensity": 24.322
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": -22.361,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -22.361
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 38.609,
+        "cloudiness": 65.305,
+        "fog_density": 79.55,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 45.865,
+        "precipitation_deposits": 32.774,
+        "sun_altitude_angle": 25.343,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 2.621,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 8.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 8.0
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 45.29,
+        "cloudiness": 81.032,
+        "fog_density": 69.418,
+        "instruction_fire_distance_m": 58.692,
+        "obstacle_distance_m": 54.516,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.517,
+        "sun_altitude_angle": -13.833,
+        "sun_azimuth_angle": 38.132,
+        "wetness": 62.649,
+        "wind_intensity": 38.042
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": -6.179,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -6.179
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 59.691,
+        "cloudiness": 65.088,
+        "fog_density": 69.418,
+        "instruction_fire_distance_m": 29.843,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.265,
+        "sun_altitude_angle": 9.481,
+        "sun_azimuth_angle": 38.132,
+        "wetness": 97.817,
+        "wind_intensity": 23.584
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 134.629,
+      "selection_fitness": 75.559,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 75.559
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 63.595,
+        "cloudiness": 50.95,
+        "fog_density": 80.377,
+        "instruction_fire_distance_m": 50.121,
+        "obstacle_distance_m": 51.834,
+        "precipitation": 81.699,
+        "precipitation_deposits": 69.784,
+        "sun_altitude_angle": -12.97,
+        "sun_azimuth_angle": 70.593,
+        "wetness": 98.893,
+        "wind_intensity": 19.132
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 113.023,
+      "selection_fitness": 66.357,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 66.357
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 67.536,
+        "cloudiness": 61.3,
+        "fog_density": 92.685,
+        "instruction_fire_distance_m": 21.584,
+        "obstacle_distance_m": 82.287,
+        "precipitation": 48.29,
+        "precipitation_deposits": 6.235,
+        "sun_altitude_angle": -13.856,
+        "sun_azimuth_angle": 306.948,
+        "wetness": 59.294,
+        "wind_intensity": 26.01
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 59.252,
+        "cloudiness": 65.325,
+        "fog_density": 79.577,
+        "instruction_fire_distance_m": 27.372,
+        "obstacle_distance_m": 52.011,
+        "precipitation": 48.755,
+        "precipitation_deposits": 32.774,
+        "sun_altitude_angle": 9.362,
+        "sun_azimuth_angle": 236.609,
+        "wetness": 99.541,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 157.999,
+      "selection_fitness": 44.976,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 44.976
+    },
+    {
+      "generation": 3,
+      "candidate_id": "town12_2554_false_scene_02_gen03_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 59.496,
+        "cloudiness": 85.523,
+        "fog_density": 36.777,
+        "instruction_fire_distance_m": 53.045,
+        "obstacle_distance_m": 77.753,
+        "precipitation": 81.521,
+        "precipitation_deposits": 70.231,
+        "sun_altitude_angle": 27.112,
+        "sun_azimuth_angle": 60.305,
+        "wetness": 83.557,
+        "wind_intensity": 28.188
+      },
+      "origin": {
+        "type": "migration",
+        "source_island": 5,
+        "source_generation": 2,
+        "source_candidate_id": "town12_2554_false_scene_06_gen02_traffic_0001",
+        "distance": null,
+        "baseline_reused": true
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 58.93,
+        "cloudiness": 49.479,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.985,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 8.658,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 98.42,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 127.3,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 127.3
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 46.375,
+        "cloudiness": 65.727,
+        "fog_density": 38.712,
+        "instruction_fire_distance_m": 26.529,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 81.027,
+        "precipitation_deposits": 70.438,
+        "sun_altitude_angle": 8.274,
+        "sun_azimuth_angle": 36.867,
+        "wetness": 98.055,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 27.987,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 27.987
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 59.687,
+        "cloudiness": 65.088,
+        "fog_density": 80.083,
+        "instruction_fire_distance_m": 29.843,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 50.747,
+        "precipitation_deposits": 71.787,
+        "sun_altitude_angle": 9.481,
+        "sun_azimuth_angle": 40.611,
+        "wetness": 97.866,
+        "wind_intensity": 23.618
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 79.923,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 79.923
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 45.006,
+        "cloudiness": 65.088,
+        "fog_density": 38.263,
+        "instruction_fire_distance_m": 27.143,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.517,
+        "sun_altitude_angle": 9.481,
+        "sun_azimuth_angle": 38.132,
+        "wetness": 99.74,
+        "wind_intensity": 38.347
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 120.013,
+      "selection_fitness": -42.348,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -42.348
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 59.691,
+        "cloudiness": 65.725,
+        "fog_density": 69.418,
+        "instruction_fire_distance_m": 54.733,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.236,
+        "sun_altitude_angle": 8.12,
+        "sun_azimuth_angle": 70.406,
+        "wetness": 98.067,
+        "wind_intensity": 23.584
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 80.427,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 80.427
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 59.536,
+        "cloudiness": 65.452,
+        "fog_density": 79.577,
+        "instruction_fire_distance_m": 59.863,
+        "obstacle_distance_m": 51.919,
+        "precipitation": 48.755,
+        "precipitation_deposits": 33.03,
+        "sun_altitude_angle": -15.096,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 99.65,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 53.953,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 53.953
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 57.642,
+        "cloudiness": 65.088,
+        "fog_density": 68.937,
+        "instruction_fire_distance_m": 55.244,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 68.288,
+        "sun_altitude_angle": 9.469,
+        "sun_azimuth_angle": 100.081,
+        "wetness": 63.316,
+        "wind_intensity": 37.885
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 58.745,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 58.745
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 59.54,
+        "cloudiness": 65.305,
+        "fog_density": 68.912,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 82.961,
+        "precipitation_deposits": 31.251,
+        "sun_altitude_angle": -13.952,
+        "sun_azimuth_angle": 214.276,
+        "wetness": 99.601,
+        "wind_intensity": 67.312
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 86.047,
+      "selection_fitness": 26.473,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 26.473
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 57.164,
+        "cloudiness": 49.626,
+        "fog_density": 69.386,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 97.943,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 97.943
+    },
+    {
+      "generation": 4,
+      "candidate_id": "town12_2554_false_scene_02_gen04_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 37.42,
+        "cloudiness": 65.387,
+        "fog_density": 42.992,
+        "instruction_fire_distance_m": 52.081,
+        "obstacle_distance_m": 87.459,
+        "precipitation": 28.968,
+        "precipitation_deposits": 37.111,
+        "sun_altitude_angle": -12.922,
+        "sun_azimuth_angle": 70.661,
+        "wetness": 99.614,
+        "wind_intensity": 19.039
+      },
+      "origin": {
+        "type": "migration",
+        "source_island": 4,
+        "source_generation": 3,
+        "source_candidate_id": "town12_2554_false_scene_05_gen03_traffic_0000",
+        "distance": null,
+        "baseline_reused": true
+      },
+      "fitness": 0.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 58.933,
+        "cloudiness": 65.466,
+        "fog_density": 38.657,
+        "instruction_fire_distance_m": 53.524,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.985,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": -1.56,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 98.416,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 158.602,
+      "selection_fitness": 96.502,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 96.502
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 59.536,
+        "cloudiness": 49.279,
+        "fog_density": 79.577,
+        "instruction_fire_distance_m": 54.523,
+        "obstacle_distance_m": 49.105,
+        "precipitation": 48.755,
+        "precipitation_deposits": 32.774,
+        "sun_altitude_angle": -13.952,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 99.65,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 52.947,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 52.947
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 63.595,
+        "cloudiness": 50.95,
+        "fog_density": 76.403,
+        "instruction_fire_distance_m": 52.386,
+        "obstacle_distance_m": 51.689,
+        "precipitation": 81.971,
+        "precipitation_deposits": 69.764,
+        "sun_altitude_angle": -12.97,
+        "sun_azimuth_angle": 70.576,
+        "wetness": 98.893,
+        "wind_intensity": 19.132
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 66.357,
+      "selection_fitness": 26.473,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 26.473
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 53.645,
+        "cloudiness": 49.626,
+        "fog_density": 79.802,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.083,
+        "precipitation": 82.635,
+        "precipitation_deposits": 31.177,
+        "sun_altitude_angle": -14.262,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 59.89,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 0.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 0.0
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 59.691,
+        "cloudiness": 68.645,
+        "fog_density": 69.418,
+        "instruction_fire_distance_m": 54.733,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.236,
+        "sun_altitude_angle": 8.12,
+        "sun_azimuth_angle": 70.406,
+        "wetness": 88.306,
+        "wind_intensity": 23.584
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 70.942,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 70.942
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 59.687,
+        "cloudiness": 49.738,
+        "fog_density": 68.991,
+        "instruction_fire_distance_m": 54.764,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.236,
+        "sun_altitude_angle": 8.12,
+        "sun_azimuth_angle": 70.406,
+        "wetness": 98.07,
+        "wind_intensity": 24.926
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 80.93,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 80.93
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 57.164,
+        "cloudiness": 59.989,
+        "fog_density": 69.386,
+        "instruction_fire_distance_m": 58.999,
+        "obstacle_distance_m": 58.537,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 55.461,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 83.963,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 83.963
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 58.93,
+        "cloudiness": 49.479,
+        "fog_density": 42.204,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 47.73,
+        "precipitation": 81.712,
+        "precipitation_deposits": 67.973,
+        "sun_altitude_angle": 8.658,
+        "sun_azimuth_angle": 68.967,
+        "wetness": 98.42,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 33.967,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 33.967
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 59.536,
+        "cloudiness": 65.305,
+        "fog_density": 69.161,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 48.104,
+        "precipitation_deposits": 67.854,
+        "sun_altitude_angle": 7.823,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 99.284,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 142.12,
+      "selection_fitness": 55.57,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 55.57
+    },
+    {
+      "generation": 5,
+      "candidate_id": "town12_2554_false_scene_02_gen05_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 63.468,
+        "cloudiness": 50.95,
+        "fog_density": 38.482,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.963,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.677,
+        "sun_azimuth_angle": 60.327,
+        "wetness": 97.416,
+        "wind_intensity": 19.921
+      },
+      "origin": {
+        "type": "migration",
+        "source_island": 3,
+        "source_generation": 4,
+        "source_candidate_id": "town12_2554_false_scene_04_gen04_traffic_0008",
+        "distance": null,
+        "baseline_reused": true
+      },
+      "fitness": 140.0,
+      "selection_fitness": 140.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 140.0
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 63.468,
+        "cloudiness": 50.88,
+        "fog_density": 38.482,
+        "instruction_fire_distance_m": 49.95,
+        "obstacle_distance_m": 55.07,
+        "precipitation": 81.963,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.978,
+        "sun_azimuth_angle": 59.846,
+        "wetness": 97.416,
+        "wind_intensity": 19.921
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 90.653,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 90.653
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 58.945,
+        "cloudiness": 65.466,
+        "fog_density": 38.657,
+        "instruction_fire_distance_m": 53.524,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.985,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": -1.56,
+        "sun_azimuth_angle": 70.389,
+        "wetness": 98.416,
+        "wind_intensity": 24.918
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 54.667,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 54.667
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 58.93,
+        "cloudiness": 45.997,
+        "fog_density": 36.858,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 47.53,
+        "precipitation": 81.964,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 9.25,
+        "sun_azimuth_angle": 69.027,
+        "wetness": 97.41,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 51.933,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 51.933
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 59.371,
+        "cloudiness": 65.539,
+        "fog_density": 79.382,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.84,
+        "precipitation": 52.046,
+        "precipitation_deposits": 24.593,
+        "sun_altitude_angle": -13.952,
+        "sun_azimuth_angle": 67.926,
+        "wetness": 99.65,
+        "wind_intensity": 25.523
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 73.14,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 73.14
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 50.941,
+        "cloudiness": 59.989,
+        "fog_density": 70.368,
+        "instruction_fire_distance_m": 58.999,
+        "obstacle_distance_m": 58.537,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 55.461,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 102.137,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 102.137
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 57.164,
+        "cloudiness": 49.695,
+        "fog_density": 69.386,
+        "instruction_fire_distance_m": 54.591,
+        "obstacle_distance_m": 51.724,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.212,
+        "sun_azimuth_angle": 69.431,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 16.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 16.0
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 59.676,
+        "cloudiness": 49.738,
+        "fog_density": 68.991,
+        "instruction_fire_distance_m": 54.764,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.236,
+        "sun_altitude_angle": 8.12,
+        "sun_azimuth_angle": 68.967,
+        "wetness": 98.07,
+        "wind_intensity": 24.926
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 109.127,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 109.127
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 63.468,
+        "cloudiness": 50.95,
+        "fog_density": 38.482,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.766,
+        "precipitation": 81.984,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.084,
+        "sun_azimuth_angle": 60.25,
+        "wetness": 98.425,
+        "wind_intensity": 19.921
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 73.643,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 73.643
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 58.93,
+        "cloudiness": 53.565,
+        "fog_density": 25.143,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 47.686,
+        "precipitation": 78.693,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 8.658,
+        "sun_azimuth_angle": 213.245,
+        "wetness": 98.42,
+        "wind_intensity": 66.302
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 60.72,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 60.72
+    },
+    {
+      "generation": 6,
+      "candidate_id": "town12_2554_false_scene_02_gen06_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 59.82,
+        "cloudiness": 51.053,
+        "fog_density": 69.322,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 54.606,
+        "precipitation": 82.191,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.465,
+        "sun_azimuth_angle": 60.327,
+        "wetness": 97.416,
+        "wind_intensity": 19.631
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 88.427,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 88.427
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 59.034,
+        "cloudiness": 53.819,
+        "fog_density": 70.368,
+        "instruction_fire_distance_m": 58.999,
+        "obstacle_distance_m": 58.669,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 55.461,
+        "wetness": 59.647,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 103.147,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 103.147
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 59.625,
+        "cloudiness": 49.738,
+        "fog_density": 69.165,
+        "instruction_fire_distance_m": 54.488,
+        "obstacle_distance_m": 54.792,
+        "precipitation": 84.953,
+        "precipitation_deposits": 68.334,
+        "sun_altitude_angle": 49.853,
+        "sun_azimuth_angle": 68.967,
+        "wetness": 98.07,
+        "wind_intensity": 24.926
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 80.93,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 80.93
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 57.217,
+        "cloudiness": 49.626,
+        "fog_density": 69.386,
+        "instruction_fire_distance_m": 54.764,
+        "obstacle_distance_m": 54.581,
+        "precipitation": 81.985,
+        "precipitation_deposits": 70.197,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 96.427,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 96.427
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 58.95,
+        "cloudiness": 49.503,
+        "fog_density": 38.482,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.963,
+        "precipitation_deposits": 72.089,
+        "sun_altitude_angle": 51.677,
+        "sun_azimuth_angle": 60.431,
+        "wetness": 97.386,
+        "wind_intensity": 24.35
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 41.636,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 41.636
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 50.057,
+        "cloudiness": 65.305,
+        "fog_density": 70.464,
+        "instruction_fire_distance_m": 58.887,
+        "obstacle_distance_m": 51.942,
+        "precipitation": 48.755,
+        "precipitation_deposits": 32.358,
+        "sun_altitude_angle": -13.952,
+        "sun_azimuth_angle": 213.349,
+        "wetness": 97.027,
+        "wind_intensity": 24.724
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 150.904,
+      "selection_fitness": 25.057,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 25.057
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 48.561,
+        "cloudiness": 49.479,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 51.496,
+        "obstacle_distance_m": 47.454,
+        "precipitation": 92.033,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 10.999,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 96.162,
+        "wind_intensity": 29.888
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 59.933,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 59.933
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 63.519,
+        "cloudiness": 50.95,
+        "fog_density": 38.308,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.504,
+        "precipitation": 81.963,
+        "precipitation_deposits": 70.231,
+        "sun_altitude_angle": 9.944,
+        "sun_azimuth_angle": 60.327,
+        "wetness": 97.416,
+        "wind_intensity": 19.921
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": -11.814,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -11.814
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 59.622,
+        "cloudiness": 49.738,
+        "fog_density": 68.991,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.087,
+        "precipitation": 84.953,
+        "precipitation_deposits": 66.533,
+        "sun_altitude_angle": 26.429,
+        "sun_azimuth_angle": 68.967,
+        "wetness": 98.222,
+        "wind_intensity": 24.926
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 89.437,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 89.437
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 63.449,
+        "cloudiness": 50.926,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.985,
+        "precipitation_deposits": 67.939,
+        "sun_altitude_angle": 8.658,
+        "sun_azimuth_angle": 68.847,
+        "wetness": 98.45,
+        "wind_intensity": 20.05
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 77.9,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 77.9
+    },
+    {
+      "generation": 7,
+      "candidate_id": "town12_2554_false_scene_02_gen07_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 60.42,
+        "cloudiness": 59.989,
+        "fog_density": 79.481,
+        "instruction_fire_distance_m": 58.999,
+        "obstacle_distance_m": 58.537,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.91,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 54.334,
+        "wetness": 61.793,
+        "wind_intensity": 67.597
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 45.069,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 45.069
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 58.933,
+        "cloudiness": 48.83,
+        "fog_density": 79.577,
+        "instruction_fire_distance_m": 59.206,
+        "obstacle_distance_m": 47.979,
+        "precipitation": 81.898,
+        "precipitation_deposits": 68.463,
+        "sun_altitude_angle": 9.165,
+        "sun_azimuth_angle": 212.221,
+        "wetness": 99.608,
+        "wind_intensity": 67.346
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 67.367,
+      "selection_fitness": 5.267,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 5.267
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 59.461,
+        "cloudiness": 65.466,
+        "fog_density": 38.486,
+        "instruction_fire_distance_m": 53.473,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.984,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 50.349,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 98.416,
+        "wind_intensity": 24.535
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 106.6,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 106.6
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 59.034,
+        "cloudiness": 49.586,
+        "fog_density": 81.542,
+        "instruction_fire_distance_m": 58.895,
+        "obstacle_distance_m": 61.531,
+        "precipitation": 78.825,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 8.654,
+        "sun_azimuth_angle": 68.571,
+        "wetness": 59.647,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 46.667,
+      "selection_fitness": 10.32,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 10.32
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 59.676,
+        "cloudiness": 49.738,
+        "fog_density": 68.991,
+        "instruction_fire_distance_m": 54.764,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 70.236,
+        "sun_altitude_angle": 8.12,
+        "sun_azimuth_angle": 68.967,
+        "wetness": 98.07,
+        "wind_intensity": 17.525
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 80.93,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 80.93
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 50.941,
+        "cloudiness": 47.049,
+        "fog_density": 70.368,
+        "instruction_fire_distance_m": 58.999,
+        "obstacle_distance_m": 58.5,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 68.984,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 84.467,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 84.467
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 59.533,
+        "cloudiness": 65.954,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 53.28,
+        "obstacle_distance_m": 51.548,
+        "precipitation": 48.841,
+        "precipitation_deposits": 32.264,
+        "sun_altitude_angle": -8.449,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 98.462,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 78.171,
+      "selection_fitness": -19.69,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -19.69
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 62.941,
+        "cloudiness": 44.763,
+        "fog_density": 38.654,
+        "instruction_fire_distance_m": 49.957,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.964,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": -0.232,
+        "sun_azimuth_angle": 60.327,
+        "wetness": 97.416,
+        "wind_intensity": 19.865
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 151.938,
+      "selection_fitness": 38.915,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 38.915
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 57.24,
+        "cloudiness": 53.711,
+        "fog_density": 52.284,
+        "instruction_fire_distance_m": 53.624,
+        "obstacle_distance_m": 51.131,
+        "precipitation": 81.985,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 7.517,
+        "sun_azimuth_angle": 55.84,
+        "wetness": 98.42,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 53.45,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 53.45
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 57.164,
+        "cloudiness": 49.626,
+        "fog_density": 67.33,
+        "instruction_fire_distance_m": 54.636,
+        "obstacle_distance_m": 55.12,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 55.427,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 89.943,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 89.943
+    },
+    {
+      "generation": 8,
+      "candidate_id": "town12_2554_false_scene_02_gen08_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 63.458,
+        "cloudiness": 50.775,
+        "fog_density": 35.453,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.963,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.677,
+        "sun_azimuth_angle": 55.045,
+        "wetness": 97.906,
+        "wind_intensity": 14.852
+      },
+      "origin": {
+        "type": "migration",
+        "source_island": 0,
+        "source_generation": 7,
+        "source_candidate_id": "town12_2554_false_scene_01_gen07_traffic_0000",
+        "distance": null,
+        "baseline_reused": true
+      },
+      "fitness": 140.0,
+      "selection_fitness": 140.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 140.0
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0000",
+      "individual": {
+        "background_max_speed_kph": 63.468,
+        "cloudiness": 49.511,
+        "fog_density": 38.464,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.963,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.677,
+        "sun_azimuth_angle": 60.327,
+        "wetness": 97.416,
+        "wind_intensity": 21.74
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 100.117,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 100.117
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0001",
+      "individual": {
+        "background_max_speed_kph": 58.93,
+        "cloudiness": 49.739,
+        "fog_density": 38.231,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.985,
+        "precipitation_deposits": 70.269,
+        "sun_altitude_angle": 8.164,
+        "sun_azimuth_angle": 68.949,
+        "wetness": 98.071,
+        "wind_intensity": 24.922
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 77.9,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 77.9
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0002",
+      "individual": {
+        "background_max_speed_kph": 58.796,
+        "cloudiness": 60.4,
+        "fog_density": 69.743,
+        "instruction_fire_distance_m": 58.999,
+        "obstacle_distance_m": 47.757,
+        "precipitation": 81.985,
+        "precipitation_deposits": 66.495,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 80.901,
+        "wetness": 60.154,
+        "wind_intensity": 24.975
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 114.6,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 114.6
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0003",
+      "individual": {
+        "background_max_speed_kph": 57.537,
+        "cloudiness": 66.198,
+        "fog_density": 34.296,
+        "instruction_fire_distance_m": 49.912,
+        "obstacle_distance_m": 47.585,
+        "precipitation": 81.964,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 51.621,
+        "sun_azimuth_angle": 54.73,
+        "wetness": 98.409,
+        "wind_intensity": 15.0
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 140.0,
+      "selection_fitness": 78.407,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 78.407
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0004",
+      "individual": {
+        "background_max_speed_kph": 50.941,
+        "cloudiness": 59.843,
+        "fog_density": 35.304,
+        "instruction_fire_distance_m": 49.913,
+        "obstacle_distance_m": 51.359,
+        "precipitation": 81.986,
+        "precipitation_deposits": 62.203,
+        "sun_altitude_angle": 7.513,
+        "sun_azimuth_angle": 55.461,
+        "wetness": 98.186,
+        "wind_intensity": 19.79
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 156.0,
+      "selection_fitness": 8.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 8.0
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0005",
+      "individual": {
+        "background_max_speed_kph": 63.458,
+        "cloudiness": 50.953,
+        "fog_density": 45.396,
+        "instruction_fire_distance_m": 49.905,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.963,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 51.677,
+        "sun_azimuth_angle": 55.045,
+        "wetness": 97.906,
+        "wind_intensity": 15.399
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 143.938,
+      "selection_fitness": 57.891,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 57.891
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0006",
+      "individual": {
+        "background_max_speed_kph": 59.676,
+        "cloudiness": 49.478,
+        "fog_density": 69.593,
+        "instruction_fire_distance_m": 54.765,
+        "obstacle_distance_m": 54.585,
+        "precipitation": 84.953,
+        "precipitation_deposits": 72.683,
+        "sun_altitude_angle": 8.613,
+        "sun_azimuth_angle": 68.968,
+        "wetness": 98.419,
+        "wind_intensity": 24.484
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 150.904,
+      "selection_fitness": 91.834,
+      "selection_violation": 0.0,
+      "forced_termination": true,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 91.834
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0007",
+      "individual": {
+        "background_max_speed_kph": 51.075,
+        "cloudiness": 49.068,
+        "fog_density": 38.856,
+        "instruction_fire_distance_m": 53.521,
+        "obstacle_distance_m": 58.365,
+        "precipitation": 81.985,
+        "precipitation_deposits": 67.953,
+        "sun_altitude_angle": 0.528,
+        "sun_azimuth_angle": 68.95,
+        "wetness": 98.42,
+        "wind_intensity": 24.479
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 46.667,
+      "selection_fitness": -101.333,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": -101.333
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0008",
+      "individual": {
+        "background_max_speed_kph": 65.751,
+        "cloudiness": 50.043,
+        "fog_density": 35.453,
+        "instruction_fire_distance_m": 52.494,
+        "obstacle_distance_m": 51.711,
+        "precipitation": 81.983,
+        "precipitation_deposits": 68.329,
+        "sun_altitude_angle": 50.405,
+        "sun_azimuth_angle": 69.265,
+        "wetness": 97.913,
+        "wind_intensity": 25.687
+      },
+      "origin": {
+        "type": "offspring"
+      },
+      "fitness": 148.0,
+      "selection_fitness": 60.44,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 60.44
+    },
+    {
+      "generation": 9,
+      "candidate_id": "town12_2554_false_scene_02_gen09_traffic_0009",
+      "individual": {
+        "background_max_speed_kph": 63.467,
+        "cloudiness": 47.196,
+        "fog_density": 33.052,
+        "instruction_fire_distance_m": 50.378,
+        "obstacle_distance_m": 51.713,
+        "precipitation": 82.283,
+        "precipitation_deposits": 71.67,
+        "sun_altitude_angle": 51.688,
+        "sun_azimuth_angle": 55.651,
+        "wetness": 98.735,
+        "wind_intensity": 19.975
+      },
+      "origin": {
+        "type": "migration",
+        "source_island": 3,
+        "source_generation": 8,
+        "source_candidate_id": "town12_2554_false_scene_04_gen08_traffic_0000",
+        "distance": null,
+        "baseline_reused": true
+      },
+      "fitness": 140.0,
+      "selection_fitness": 140.0,
+      "selection_violation": 0.0,
+      "forced_termination": false,
+      "infrastructure_failure": false,
+      "evaluated": true,
+      "fitness_differential": 140.0
+    }
+  ]
+}
