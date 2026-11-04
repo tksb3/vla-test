@@ -1,0 +1,33 @@
+{
+  "project": "vla-contradiction-test",
+  "evaluation_mode": "differential",
+  "repetitions": 3,
+  "simlingo": {
+    "host": "127.0.0.1",
+    "port": 2000,
+    "traffic_manager_port": 8000,
+    "seed": 1,
+    "run_script": "/workspace/simlingo/tools/run_one_route_closed_loop.sh",
+    "timeout_s": 1800,
+    "carla_client_timeout_s": 3600
+  },
+  "carla": {
+    "restart_command": "su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port={port}'",
+    "stop_command": "pkill -9 -f 'carla-rpc-port={port}'",
+    "startup_timeout_s": 3600,
+    "shutdown_timeout_s": 30,
+    "max_case_retries": 2,
+    "unreachable_checks": 15
+  },
+  "stall_guard": {
+    "enabled": true,
+    "stationary_game_time_s": 30.0,
+    "min_movement_m": 1.0,
+    "check_interval_s": 1.0
+  },
+  "island": {
+    "poll_interval_s": 1.0,
+    "timeout_s": 43200,
+    "note": "poll_interval_s is how often a waiting island re-reads the flag directory."
+  }
+}

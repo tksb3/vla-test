@@ -1,0 +1,11 @@
+{
+  "instructions": [
+    "The lanes ahead are clear.",
+    "You can change lanes at any time.",
+    "The lanes ahead are clear. You can change lanes at any time.",
+    "There are no vehicles or obstacles blocking the lane ahead.",
+    "You may change to the adjacent lane whenever needed.",
+    "There are no vehicles or obstacles blocking the lane ahead. You may change to the adjacent lane whenever needed."
+  ],
+  "runtime_prompt_tag": null
+}

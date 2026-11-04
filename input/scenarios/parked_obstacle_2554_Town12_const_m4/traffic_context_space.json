@@ -1,0 +1,88 @@
+{
+  "traffic_scenarios": [
+    {
+      "scenario_type": "ParkedObstacle",
+      "ga_search_space": {
+        "cloudiness": {
+          "type": "float",
+          "min": 0.0,
+          "max": 100.0,
+          "note": "CARLA WeatherParameters cloudiness."
+        },
+        "fog_density": {
+          "type": "float",
+          "min": 0.0,
+          "max": 100.0,
+          "note": "CARLA WeatherParameters fog_density."
+        },
+        "precipitation": {
+          "type": "float",
+          "min": 0.0,
+          "max": 100.0,
+          "note": "CARLA WeatherParameters precipitation. How hard it is raining."
+        },
+        "precipitation_deposits": {
+          "type": "float",
+          "min": 0.0,
+          "max": 100.0,
+          "note": "CARLA WeatherParameters precipitation_deposits. Standing water on the road."
+        },
+        "wetness": {
+          "type": "float",
+          "min": 0.0,
+          "max": 100.0,
+          "note": "CARLA WeatherParameters wetness. Water on the camera lens."
+        },
+        "wind_intensity": {
+          "type": "float",
+          "min": 0.0,
+          "max": 100.0,
+          "note": "CARLA WeatherParameters wind_intensity."
+        },
+        "sun_altitude_angle": {
+          "type": "float",
+          "min": -90.0,
+          "max": 90.0,
+          "note": "CARLA WeatherParameters sun_altitude_angle. Negative is night."
+        },
+        "sun_azimuth_angle": {
+          "type": "float",
+          "min": 0.0,
+          "max": 360.0,
+          "note": "CARLA WeatherParameters sun_azimuth_angle."
+        },
+        "obstacle_distance_m": {
+          "type": "float",
+          "min": 40.0,
+          "max": 120.0,
+          "note": "How far ahead of the trigger the parked vehicle sits."
+        },
+        "background_max_speed_kph": {
+          "type": "float",
+          "min": 30.0,
+          "max": 70.0,
+          "note": "Fed to SetMaxSpeed. Caps the background traffic, not the ego."
+        },
+        "instruction_fire_distance_m": {
+          "type": "float",
+          "min": 20.0,
+          "max": 60.0,
+          "note": "How close the ego has to come to config.instruction_trigger.anchor."
+        }
+      }
+    }
+  ],
+  "ga_settings": {
+    "population_size": 10,
+    "generations": 10,
+    "operator_parameters": "pymoo_defaults",
+    "mutation_rate": 0.2,
+    "crossover_rate": 0.5,
+    "seed": 1,
+    "selection_objective": "instruction_with_baseline_constraint",
+    "migration_count": 4,
+    "migration_selection": "positive_instruction",
+    "reuse_migrant_baseline": true,
+    "migration_note": "Island model: each process runs one instruction and, at every generation barrier, 05_sync_island.py publishes this island's candidates and pools from its peers the traffic contexts whose control run finished at fitness 0 in every repetition. The island then mates migration_count fewer offspring and gives the free slots to the imports, so nothing already bred is discarded. migration_selection picks which pooled contexts take those slots: 'random' draws uniformly, 'nearest' takes the ones closest in normalized gene space to this island's surviving population, 'positive_instruction' keeps only the contexts whose instruction run itself scored above 0 and draws uniformly from those -- it imports nothing in a generation where no pooled context qualifies, rather than falling back to a uniform draw. reuse_migrant_baseline says whether an imported context adopts the source island's baseline measurement instead of simulating its own control run. These three keys only apply when run_pipeline.py is given --island-index; without it the search runs alone and step 02 reports them as unused. Set migration_count to 0 to run an island without importing anything."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "fixed_map": "Town12",
+  "fixed_traffic_scenario": "ParkedObstacle",
+  "fixed_route_xml": "/workspace/tools_for_carla_bench2drive/output/extracted_route_xml/town12/parkedobstacle_1/route_2554.full.xml",
+  "instruction_trigger": {
+    "enabled": true,
+    "anchor": {
+      "type": "route_fraction",
+      "fraction": 0.5
+    },
+    "fire_distance_m": 20.0
+  }
+}

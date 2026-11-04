@@ -1,0 +1,11 @@
+{
+  "instructions": [
+    "The intersection ahead is clear.",
+    "You can proceed through the intersection at any time.",
+    "The intersection ahead is clear. You can proceed through the intersection at any time.",
+    "There is no oncoming traffic at the intersection.",
+    "You may make the left turn whenever needed.",
+    "There is no oncoming traffic at the intersection. You may make the left turn whenever needed."
+  ],
+  "runtime_prompt_tag": null
+}
