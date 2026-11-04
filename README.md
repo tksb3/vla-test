@@ -13,7 +13,9 @@
    GitHub page.
 
 4. In `common.json` under the `input` folder, change the `run_script` and `host`
-   keys to match your own environment.
+   keys to match your own environment. And specify `input/route_xml/route_2554.full.xml` in 
+   `fixed_route_xml` key of `config.json` for ParkedObstacle and `input/route_xml/route_2084.full.xml`
+   for NonSignalizedJunctionLeftTurn.
 
 5. Run the method with the commands below.
 
