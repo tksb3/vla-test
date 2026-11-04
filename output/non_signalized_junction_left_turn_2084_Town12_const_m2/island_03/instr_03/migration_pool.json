@@ -1,0 +1,1306 @@
+{
+  "step": "05_sync_island",
+  "island_index": 3,
+  "entries": [
+    {
+      "source_island": 2,
+      "source_generation": 1,
+      "candidate_id": "town12_2084_false_scene_03_gen01_traffic_0004",
+      "individual": {
+        "cloudiness": 51.182,
+        "fog_density": 95.046,
+        "instruction_fire_distance_m": 22.162,
+        "oncoming_vehicle_spawn_interval_from_m": 24.966,
+        "oncoming_vehicle_spawn_interval_to_m": 41.608,
+        "oncoming_vehicle_speed_mps": 11.08,
+        "precipitation": 82.77,
+        "precipitation_deposits": 40.92,
+        "sun_altitude_angle": 4.596,
+        "sun_azimuth_angle": 9.921,
+        "wetness": 79.928,
+        "wind_intensity": 53.814
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 2,
+      "source_generation": 1,
+      "candidate_id": "town12_2084_false_scene_03_gen01_traffic_0009",
+      "individual": {
+        "cloudiness": 51.182,
+        "fog_density": 94.783,
+        "instruction_fire_distance_m": 22.113,
+        "oncoming_vehicle_spawn_interval_from_m": 24.23,
+        "oncoming_vehicle_spawn_interval_to_m": 39.148,
+        "oncoming_vehicle_speed_mps": 11.08,
+        "precipitation": 82.825,
+        "precipitation_deposits": 11.636,
+        "sun_altitude_angle": 8.927,
+        "sun_azimuth_angle": 14.182,
+        "wetness": 76.316,
+        "wind_intensity": 45.654
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 1,
+      "candidate_id": "town12_2084_false_scene_05_gen01_traffic_0005",
+      "individual": {
+        "cloudiness": 89.665,
+        "fog_density": 39.435,
+        "instruction_fire_distance_m": 28.45,
+        "oncoming_vehicle_spawn_interval_from_m": 22.283,
+        "oncoming_vehicle_spawn_interval_to_m": 62.04,
+        "oncoming_vehicle_speed_mps": 17.029,
+        "precipitation": 83.946,
+        "precipitation_deposits": 88.552,
+        "sun_altitude_angle": 64.192,
+        "sun_azimuth_angle": 92.164,
+        "wetness": 76.852,
+        "wind_intensity": 20.472
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 70.84
+      },
+      "fitness_differential": 23.613,
+      "used": true
+    },
+    {
+      "source_island": 5,
+      "source_generation": 1,
+      "candidate_id": "town12_2084_false_scene_06_gen01_traffic_0005",
+      "individual": {
+        "cloudiness": 51.125,
+        "fog_density": 92.21,
+        "instruction_fire_distance_m": 21.789,
+        "oncoming_vehicle_spawn_interval_from_m": 24.331,
+        "oncoming_vehicle_spawn_interval_to_m": 42.151,
+        "oncoming_vehicle_speed_mps": 11.08,
+        "precipitation": 84.035,
+        "precipitation_deposits": 40.92,
+        "sun_altitude_angle": 64.335,
+        "sun_azimuth_angle": 16.801,
+        "wetness": 75.351,
+        "wind_intensity": 47.014
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 2,
+      "candidate_id": "town12_2084_false_scene_05_gen02_traffic_0006",
+      "individual": {
+        "cloudiness": 81.988,
+        "fog_density": 23.9,
+        "instruction_fire_distance_m": 25.684,
+        "oncoming_vehicle_spawn_interval_from_m": 20.879,
+        "oncoming_vehicle_spawn_interval_to_m": 39.674,
+        "oncoming_vehicle_speed_mps": 11.131,
+        "precipitation": 86.732,
+        "precipitation_deposits": 60.309,
+        "sun_altitude_angle": 55.849,
+        "sun_azimuth_angle": 116.59,
+        "wetness": 65.323,
+        "wind_intensity": 19.63
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 64.53,
+        "1": 70.84,
+        "2": 0.0
+      },
+      "fitness_differential": 45.123,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 3,
+      "candidate_id": "town12_2084_false_scene_05_gen03_traffic_0001",
+      "individual": {
+        "cloudiness": 10.592,
+        "fog_density": 63.316,
+        "instruction_fire_distance_m": 25.612,
+        "oncoming_vehicle_spawn_interval_from_m": 10.453,
+        "oncoming_vehicle_spawn_interval_to_m": 62.019,
+        "oncoming_vehicle_speed_mps": 10.639,
+        "precipitation": 82.712,
+        "precipitation_deposits": 63.214,
+        "sun_altitude_angle": 45.105,
+        "sun_azimuth_angle": 123.046,
+        "wetness": 76.261,
+        "wind_intensity": 19.264
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 3,
+      "candidate_id": "town12_2084_false_scene_05_gen03_traffic_0003",
+      "individual": {
+        "cloudiness": 3.136,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 26.89,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 63.189,
+        "oncoming_vehicle_speed_mps": 16.232,
+        "precipitation": 58.841,
+        "precipitation_deposits": 26.01,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 51.089,
+        "wind_intensity": 75.303
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 140.0,
+        "1": 0.0,
+        "2": 140.0
+      },
+      "fitness_differential": 93.333,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 4,
+      "candidate_id": "town12_2084_false_scene_05_gen04_traffic_0002",
+      "individual": {
+        "cloudiness": 3.984,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 26.89,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 60.273,
+        "oncoming_vehicle_speed_mps": 16.232,
+        "precipitation": 59.294,
+        "precipitation_deposits": 26.01,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 51.089,
+        "wind_intensity": 85.108
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 4,
+      "candidate_id": "town12_2084_false_scene_05_gen04_traffic_0006",
+      "individual": {
+        "cloudiness": 3.111,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 26.89,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 63.189,
+        "oncoming_vehicle_speed_mps": 16.232,
+        "precipitation": 58.841,
+        "precipitation_deposits": 26.01,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 51.089,
+        "wind_intensity": 75.303
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 4,
+      "candidate_id": "town12_2084_false_scene_05_gen04_traffic_0009",
+      "individual": {
+        "cloudiness": 6.21,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 26.89,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 60.273,
+        "oncoming_vehicle_speed_mps": 16.232,
+        "precipitation": 59.294,
+        "precipitation_deposits": 26.01,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 65.971,
+        "wind_intensity": 75.303
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 70.84,
+        "2": 0.0
+      },
+      "fitness_differential": 23.613,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 5,
+      "candidate_id": "town12_2084_false_scene_05_gen05_traffic_0004",
+      "individual": {
+        "cloudiness": 0.203,
+        "fog_density": 62.721,
+        "instruction_fire_distance_m": 27.074,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 63.189,
+        "oncoming_vehicle_speed_mps": 15.913,
+        "precipitation": 58.841,
+        "precipitation_deposits": 25.987,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 54.396,
+        "wind_intensity": 21.68
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 70.84,
+        "2": 0.0
+      },
+      "fitness_differential": 23.613,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 5,
+      "candidate_id": "town12_2084_false_scene_05_gen05_traffic_0008",
+      "individual": {
+        "cloudiness": 3.959,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 26.89,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 60.273,
+        "oncoming_vehicle_speed_mps": 16.232,
+        "precipitation": 58.382,
+        "precipitation_deposits": 26.01,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 51.089,
+        "wind_intensity": 75.303
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 5,
+      "candidate_id": "town12_2084_false_scene_05_gen05_traffic_0009",
+      "individual": {
+        "cloudiness": 10.592,
+        "fog_density": 53.454,
+        "instruction_fire_distance_m": 25.683,
+        "oncoming_vehicle_spawn_interval_from_m": 20.879,
+        "oncoming_vehicle_spawn_interval_to_m": 60.963,
+        "oncoming_vehicle_speed_mps": 11.494,
+        "precipitation": 86.732,
+        "precipitation_deposits": 63.236,
+        "sun_altitude_angle": 55.849,
+        "sun_azimuth_angle": 123.046,
+        "wetness": 51.06,
+        "wind_intensity": 73.253
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 5,
+      "source_generation": 5,
+      "candidate_id": "town12_2084_false_scene_06_gen05_traffic_0004",
+      "individual": {
+        "cloudiness": 75.771,
+        "fog_density": 74.966,
+        "instruction_fire_distance_m": 32.382,
+        "oncoming_vehicle_spawn_interval_from_m": 11.459,
+        "oncoming_vehicle_spawn_interval_to_m": 34.875,
+        "oncoming_vehicle_speed_mps": 8.812,
+        "precipitation": 52.07,
+        "precipitation_deposits": 13.034,
+        "sun_altitude_angle": -18.63,
+        "sun_azimuth_angle": 273.496,
+        "wetness": 60.022,
+        "wind_intensity": 42.119
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 70.84,
+        "1": 72.1,
+        "2": 0.0
+      },
+      "fitness_differential": 47.647,
+      "used": true
+    },
+    {
+      "source_island": 1,
+      "source_generation": 6,
+      "candidate_id": "town12_2084_false_scene_02_gen06_traffic_0005",
+      "individual": {
+        "cloudiness": 81.972,
+        "fog_density": 6.467,
+        "instruction_fire_distance_m": 26.151,
+        "oncoming_vehicle_spawn_interval_from_m": 11.701,
+        "oncoming_vehicle_spawn_interval_to_m": 45.633,
+        "oncoming_vehicle_speed_mps": 9.801,
+        "precipitation": 69.349,
+        "precipitation_deposits": 20.865,
+        "sun_altitude_angle": 53.629,
+        "sun_azimuth_angle": 2.097,
+        "wetness": 26.249,
+        "wind_intensity": 42.119
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 70.84,
+        "2": 69.58
+      },
+      "fitness_differential": 46.807,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 6,
+      "candidate_id": "town12_2084_false_scene_05_gen06_traffic_0006",
+      "individual": {
+        "cloudiness": 5.053,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 24.696,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 64.598,
+        "oncoming_vehicle_speed_mps": 15.192,
+        "precipitation": 58.841,
+        "precipitation_deposits": 26.278,
+        "sun_altitude_angle": 62.187,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 51.089,
+        "wind_intensity": 75.844
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 1,
+      "source_generation": 7,
+      "candidate_id": "town12_2084_false_scene_02_gen07_traffic_0003",
+      "individual": {
+        "cloudiness": 81.988,
+        "fog_density": 5.92,
+        "instruction_fire_distance_m": 25.071,
+        "oncoming_vehicle_spawn_interval_from_m": 20.873,
+        "oncoming_vehicle_spawn_interval_to_m": 39.674,
+        "oncoming_vehicle_speed_mps": 11.131,
+        "precipitation": 82.778,
+        "precipitation_deposits": 60.309,
+        "sun_altitude_angle": 73.436,
+        "sun_azimuth_angle": 116.59,
+        "wetness": 64.93,
+        "wind_intensity": 19.63
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 70.84,
+        "1": 69.58,
+        "2": 70.84
+      },
+      "fitness_differential": 70.42,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 7,
+      "candidate_id": "town12_2084_false_scene_05_gen07_traffic_0008",
+      "individual": {
+        "cloudiness": 89.879,
+        "fog_density": 63.95,
+        "instruction_fire_distance_m": 25.706,
+        "oncoming_vehicle_spawn_interval_from_m": 10.541,
+        "oncoming_vehicle_spawn_interval_to_m": 60.981,
+        "oncoming_vehicle_speed_mps": 11.175,
+        "precipitation": 86.732,
+        "precipitation_deposits": 63.214,
+        "sun_altitude_angle": 55.849,
+        "sun_azimuth_angle": 88.825,
+        "wetness": 75.839,
+        "wind_intensity": 21.106
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 1,
+      "source_generation": 8,
+      "candidate_id": "town12_2084_false_scene_02_gen08_traffic_0003",
+      "individual": {
+        "cloudiness": 82.037,
+        "fog_density": 23.9,
+        "instruction_fire_distance_m": 25.684,
+        "oncoming_vehicle_spawn_interval_from_m": 20.879,
+        "oncoming_vehicle_spawn_interval_to_m": 39.782,
+        "oncoming_vehicle_speed_mps": 9.928,
+        "precipitation": 86.732,
+        "precipitation_deposits": 60.022,
+        "sun_altitude_angle": -17.921,
+        "sun_azimuth_angle": 122.725,
+        "wetness": 65.323,
+        "wind_intensity": 19.63
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "fitness_differential": 0.0,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 8,
+      "candidate_id": "town12_2084_false_scene_05_gen08_traffic_0003",
+      "individual": {
+        "cloudiness": 2.571,
+        "fog_density": 52.859,
+        "instruction_fire_distance_m": 26.89,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 63.189,
+        "oncoming_vehicle_speed_mps": 16.765,
+        "precipitation": 58.841,
+        "precipitation_deposits": 26.01,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 183.419,
+        "wetness": 58.311,
+        "wind_intensity": 75.303
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 70.84,
+        "2": 0.0
+      },
+      "fitness_differential": 23.613,
+      "used": true
+    },
+    {
+      "source_island": 4,
+      "source_generation": 8,
+      "candidate_id": "town12_2084_false_scene_05_gen08_traffic_0004",
+      "individual": {
+        "cloudiness": 89.472,
+        "fog_density": 42.272,
+        "instruction_fire_distance_m": 28.843,
+        "oncoming_vehicle_spawn_interval_from_m": 10.367,
+        "oncoming_vehicle_spawn_interval_to_m": 62.037,
+        "oncoming_vehicle_speed_mps": 17.029,
+        "precipitation": 83.617,
+        "precipitation_deposits": 88.425,
+        "sun_altitude_angle": 28.864,
+        "sun_azimuth_angle": 88.399,
+        "wetness": 66.331,
+        "wind_intensity": 21.167
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 140.0,
+        "2": 0.0
+      },
+      "fitness_differential": 46.667,
+      "used": true
+    },
+    {
+      "source_island": 1,
+      "source_generation": 9,
+      "candidate_id": "town12_2084_false_scene_02_gen09_traffic_0005",
+      "individual": {
+        "cloudiness": 81.988,
+        "fog_density": 23.669,
+        "instruction_fire_distance_m": 25.684,
+        "oncoming_vehicle_spawn_interval_from_m": 20.879,
+        "oncoming_vehicle_spawn_interval_to_m": 34.749,
+        "oncoming_vehicle_speed_mps": 11.131,
+        "precipitation": 86.732,
+        "precipitation_deposits": 59.912,
+        "sun_altitude_angle": 55.849,
+        "sun_azimuth_angle": 116.59,
+        "wetness": 59.778,
+        "wind_intensity": 19.676
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 70.84,
+        "1": 0.0,
+        "2": 70.84
+      },
+      "fitness_differential": 47.227,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 9,
+      "candidate_id": "town12_2084_false_scene_05_gen09_traffic_0003",
+      "individual": {
+        "cloudiness": 10.557,
+        "fog_density": 42.272,
+        "instruction_fire_distance_m": 28.843,
+        "oncoming_vehicle_spawn_interval_from_m": 10.271,
+        "oncoming_vehicle_spawn_interval_to_m": 60.997,
+        "oncoming_vehicle_speed_mps": 17.44,
+        "precipitation": 87.095,
+        "precipitation_deposits": 62.229,
+        "sun_altitude_angle": 28.864,
+        "sun_azimuth_angle": 139.846,
+        "wetness": 76.852,
+        "wind_intensity": 19.595
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 64.53,
+        "2": 171.5
+      },
+      "fitness_differential": 78.677,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 9,
+      "candidate_id": "town12_2084_false_scene_05_gen09_traffic_0004",
+      "individual": {
+        "cloudiness": 3.258,
+        "fog_density": 42.199,
+        "instruction_fire_distance_m": 26.916,
+        "oncoming_vehicle_spawn_interval_from_m": 10.935,
+        "oncoming_vehicle_spawn_interval_to_m": 63.189,
+        "oncoming_vehicle_speed_mps": 16.263,
+        "precipitation": 82.387,
+        "precipitation_deposits": 18.967,
+        "sun_altitude_angle": 61.179,
+        "sun_azimuth_angle": 180.677,
+        "wetness": 55.139,
+        "wind_intensity": 75.303
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 70.84
+      },
+      "fitness_differential": 23.613,
+      "used": false
+    },
+    {
+      "source_island": 4,
+      "source_generation": 9,
+      "candidate_id": "town12_2084_false_scene_05_gen09_traffic_0008",
+      "individual": {
+        "cloudiness": 89.506,
+        "fog_density": 64.661,
+        "instruction_fire_distance_m": 25.706,
+        "oncoming_vehicle_spawn_interval_from_m": 21.117,
+        "oncoming_vehicle_spawn_interval_to_m": 62.006,
+        "oncoming_vehicle_speed_mps": 11.175,
+        "precipitation": 82.32,
+        "precipitation_deposits": 89.74,
+        "sun_altitude_angle": 55.849,
+        "sun_azimuth_angle": 87.824,
+        "wetness": 54.367,
+        "wind_intensity": 21.202
+      },
+      "baseline": {
+        "status": "Completed",
+        "entry_status": "Finished",
+        "score_composed": 100.0,
+        "has_collision": false,
+        "has_red_light_violation": false,
+        "has_route_deviation": false,
+        "completed": true,
+        "forced_termination": false,
+        "infraction_count": 0,
+        "fitness": 0.0,
+        "fitness_values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "fitness_by_repetition": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0
+        },
+        "repetitions": 3,
+        "usable_repetitions": 3,
+        "baseline_source": "measured"
+      },
+      "baseline_repetitions": 3,
+      "instruction_fitness_by_repetition": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 70.84
+      },
+      "fitness_differential": 23.613,
+      "used": false
+    }
+  ]
+}
