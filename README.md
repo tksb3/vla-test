@@ -99,3 +99,25 @@
 | const/m=2 | non_signalized_junction_left_turn_2084_Town12 | input/scenarios/non_signalized_junction_left_turn_2084_Town12_const_m2 | output/non_signalized_junction_left_turn_2084_Town12_const_m2 |
 | diff/m=4 | non_signalized_junction_left_turn_2084_Town12 | input/scenarios/non_signalized_junction_left_turn_2084_Town12_diff_m4 | output/non_signalized_junction_left_turn_2084_Town12_diff_m4 |
 | const/m=4 | non_signalized_junction_left_turn_2084_Town12 | input/scenarios/non_signalized_junction_left_turn_2084_Town12_const_m4 | output/non_signalized_junction_left_turn_2084_Town12_const_m4 |
+
+# Citations
+
+SimLingo:
+```
+@InProceedings{Renz2025cvpr,
+  title={SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment},
+  author={Renz, Katrin and Chen, Long and Arani, Elahe and Sinavski, Oleg},
+  booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
+}
+```
+
+Bench2Drive benchmark:
+```
+@inproceedings{Jia2024NeurIPS,
+  title={Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving},
+  author={Xiaosong Jia and Zhenjie Yang and Qifeng Li and Zhiyuan Zhang and Junchi Yan},
+  booktitle={NeurIPS 2024 Datasets and Benchmarks Track},
+  year={2024}
+}
+```
