@@ -1,0 +1,1410 @@
+nohup: ignoring input
+island_00 registered in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/shared/flags/start
+start barrier: island_01 is here (2/5)
+start barrier: island_02 is here (2/5)
+start barrier: island_03 is here (5/5)
+start barrier: island_04 is here (5/5)
+start barrier: island_05 is here (5/5)
+holding 536s until 2026-10-22T15:30:00+00:00
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_01_false_scene_search_result.json (instruction_index=0, instruction='The lanes ahead are clear.')
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 0, 10 candidates)
+CARLA is unreachable
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=31.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=30.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.3s distance=47.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.3s distance=47.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.9s distance=19.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.8s distance=21.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.9s distance=20.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0003/run_baseline/rep_02 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.1s distance=49.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.1s distance=49.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=49.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0006/run_baseline/rep_02 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.4s distance=45.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.4s distance=46.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.4s distance=45.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0008/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0008/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0008/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0009/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0009/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0000/town12_2554_false_scene_01_gen00_traffic_0009/run_baseline/rep_02 status=completed_process returncode=0
+run counts: 60 simulated, 0 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0000.json
+generation 0: published 10 candidates
+generation 0 barrier: island_02 is here (1/5)
+generation 0 barrier: island_05 is here (2/5)
+generation 0 barrier: island_04 is here (3/5)
+generation 0 barrier: island_03 is here (4/5)
+generation 0 barrier: island_01 is here (5/5)
+generation 0: 0 baseline-clean contexts from peers (32 already measured here), 0 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 0 best: town12_2554_false_scene_01_gen00_traffic_0000 fitness=0.0 selection_fitness=0.0 violation=0.0 (feasible 6/10)
+migration: the pool is still empty
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 1, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0000/run_instruction/rep_01 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=53.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=53.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=57.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=57.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0004/run_baseline/rep_01 status=terminated_stall_guard returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0006/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=49.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.3s distance=48.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=49.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=31.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=31.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=31.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0008/run_baseline/rep_00 status=completed_process returncode=0
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0008/run_baseline/rep_01 status=terminated_stall_guard returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0008/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0009/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0009/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0001/town12_2554_false_scene_01_gen01_traffic_0009/run_baseline/rep_02 status=completed_process returncode=0
+run counts: 60 simulated, 0 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0001.json
+generation 1: published 10 candidates
+generation 1 barrier: island_02 is here (1/5)
+generation 1 barrier: island_04 is here (2/5)
+generation 1 barrier: island_05 is here (3/5)
+generation 1 barrier: island_03 is here (4/5)
+generation 1 barrier: island_01 is here (5/5)
+generation 1: 27 baseline-clean contexts from peers (13 already measured here), 20 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 1 best: town12_2554_false_scene_01_gen01_traffic_0000 fitness=53.937 selection_fitness=53.937 violation=0.0 (feasible 9/10)
+migration: 20 pooled, 20 unused, 20 with instruction fitness recorded, 2 positive
+migration: importing 2 contexts (positive_instruction)
+  island 3 gen 1
+  island 1 gen 1
+migration: reusing the source island's baseline for 2 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 2, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=55.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=56.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=56.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=56.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0003/run_baseline/rep_01 status=terminated_stall_guard returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=25.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0006/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=29.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=28.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen02_traffic_0008 (3 runs): reusing island 3 gen 1
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0009/run_instruction/rep_01 status=completed_process returncode=134
+CARLA is unreachable
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0002/town12_2554_false_scene_01_gen02_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen02_traffic_0009 (3 runs): reusing island 1 gen 1
+run counts: 54 simulated, 6 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0002.json
+generation 2: published 10 candidates
+generation 2 barrier: island_01 is here (5/5)
+generation 2 barrier: island_02 is here (5/5)
+generation 2 barrier: island_03 is here (5/5)
+generation 2 barrier: island_04 is here (5/5)
+generation 2 barrier: island_05 is here (5/5)
+generation 2: 36 baseline-clean contexts from peers (0 already measured here), 36 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 2 best: town12_2554_false_scene_01_gen02_traffic_0000 fitness=0.0 selection_fitness=0.0 violation=0.0 (feasible 10/10)
+migration: 56 pooled, 54 unused, 54 with instruction fitness recorded, 4 positive
+migration: importing 4 contexts (positive_instruction)
+  island 2 gen 2
+  island 1 gen 2
+  island 3 gen 2
+  island 2 gen 2
+migration: reusing the source island's baseline for 4 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 3, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=54.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=56.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=33.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0004/run_instruction/rep_01 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=33.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=56.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.8s distance=21.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.8s distance=20.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.8s distance=21.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen03_traffic_0006 (3 runs): reusing island 2 gen 2
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.9m
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0007/run_instruction/rep_02 status=terminated_stall_guard returncode=0
+skipped baseline for town12_2554_false_scene_01_gen03_traffic_0007 (3 runs): reusing island 1 gen 2
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen03_traffic_0008 (3 runs): reusing island 3 gen 2
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=53.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=53.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0003/town12_2554_false_scene_01_gen03_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen03_traffic_0009 (3 runs): reusing island 2 gen 2
+run counts: 48 simulated, 12 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0003.json
+generation 3: published 10 candidates
+generation 3 barrier: island_04 is here (2/5)
+generation 3 barrier: island_05 is here (2/5)
+generation 3 barrier: island_01 is here (3/5)
+generation 3 barrier: island_03 is here (4/5)
+generation 3 barrier: island_02 is here (5/5)
+generation 3: 25 baseline-clean contexts from peers (0 already measured here), 25 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 3 best: town12_2554_false_scene_01_gen03_traffic_0007 fitness=55.451 selection_fitness=55.451 violation=0.0 (feasible 9/10)
+migration: 81 pooled, 75 unused, 75 with instruction fitness recorded, 1 positive
+migration: importing 1 contexts (positive_instruction)
+  island 3 gen 3
+migration: reusing the source island's baseline for 1 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 4, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.8s distance=41.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=53.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0004/run_instruction/rep_02 status=terminated_timeout returncode=-15
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.0s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.8s distance=27.0m
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0006/run_instruction/rep_01 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.7s distance=26.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0006/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=34.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=34.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=34.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0008/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0008/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0008/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0004/town12_2554_false_scene_01_gen04_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen04_traffic_0009 (3 runs): reusing island 3 gen 3
+run counts: 57 simulated, 3 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0004.json
+generation 4: published 10 candidates
+generation 4 barrier: island_01 is here (2/5)
+generation 4 barrier: island_02 is here (2/5)
+generation 4 barrier: island_04 is here (3/5)
+generation 4 barrier: island_05 is here (4/5)
+generation 4 barrier: island_03 is here (5/5)
+generation 4: 35 baseline-clean contexts from peers (0 already measured here), 35 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 4 best: town12_2554_false_scene_01_gen04_traffic_0006 fitness=54.845 selection_fitness=54.845 violation=0.0 (feasible 10/10)
+migration: 116 pooled, 109 unused, 109 with instruction fitness recorded, 4 positive
+migration: importing 4 contexts (positive_instruction)
+  island 1 gen 4
+  island 2 gen 4
+  island 2 gen 4
+  island 3 gen 4
+migration: reusing the source island's baseline for 4 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 5, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=55.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=55.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.3s distance=48.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0001/run_baseline/rep_01 status=completed_process returncode=1
+CARLA is unreachable
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=30.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=40.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=27.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=27.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=55.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=54.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen05_traffic_0006 (3 runs): reusing island 1 gen 4
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.9s distance=20.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.8s distance=21.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.9s distance=19.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen05_traffic_0007 (3 runs): reusing island 2 gen 4
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0008/run_instruction/rep_01 status=completed_process returncode=1
+CARLA is unreachable
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=30.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen05_traffic_0008 (3 runs): reusing island 2 gen 4
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0005/town12_2554_false_scene_01_gen05_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen05_traffic_0009 (3 runs): reusing island 3 gen 4
+run counts: 48 simulated, 12 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0005.json
+generation 5: published 10 candidates
+generation 5 barrier: island_02 is here (1/5)
+generation 5 barrier: island_05 is here (2/5)
+generation 5 barrier: island_04 is here (3/5)
+generation 5 barrier: island_01 is here (4/5)
+generation 5 barrier: island_03 is here (5/5)
+generation 5: 26 baseline-clean contexts from peers (0 already measured here), 26 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 5 best: town12_2554_false_scene_01_gen05_traffic_0000 fitness=0.0 selection_fitness=0.0 violation=0.0 (feasible 10/10)
+migration: 142 pooled, 131 unused, 131 with instruction fitness recorded, 2 positive
+migration: importing 2 contexts (positive_instruction)
+  island 5 gen 5
+  island 2 gen 5
+migration: reusing the source island's baseline for 2 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 6, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=56.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=56.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.6s distance=56.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0001/run_instruction/rep_00 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=43.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.3s distance=47.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.4s distance=47.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0006/run_instruction/rep_00 status=terminated_timeout returncode=-15
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=32.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=32.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0006/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=25.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=29.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=30.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.4s distance=31.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen06_traffic_0008 (3 runs): reusing island 5 gen 5
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=32.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=30.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0006/town12_2554_false_scene_01_gen06_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen06_traffic_0009 (3 runs): reusing island 2 gen 5
+run counts: 54 simulated, 6 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0006.json
+generation 6: published 10 candidates
+generation 6 barrier: island_04 is here (2/5)
+generation 6 barrier: island_05 is here (2/5)
+generation 6 barrier: island_01 is here (3/5)
+generation 6 barrier: island_03 is here (4/5)
+generation 6 barrier: island_02 is here (5/5)
+generation 6: 35 baseline-clean contexts from peers (0 already measured here), 35 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 6 best: town12_2554_false_scene_01_gen06_traffic_0001 fitness=33.333 selection_fitness=33.333 violation=0.0 (feasible 10/10)
+migration: 177 pooled, 164 unused, 164 with instruction fitness recorded, 2 positive
+migration: importing 2 contexts (positive_instruction)
+  island 3 gen 6
+  island 1 gen 6
+migration: reusing the source island's baseline for 2 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 7, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=6.1s distance=27.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.7s distance=26.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=55.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=55.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=55.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0002/run_baseline/rep_00 status=completed_process returncode=1
+CARLA is unreachable
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=54.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.1s distance=53.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=54.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=35.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=35.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=34.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.9s distance=41.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0006/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=32.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.1s distance=33.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=33.9m
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0007/run_instruction/rep_02 status=terminated_stall_guard returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen07_traffic_0008 (3 runs): reusing island 3 gen 6
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0007/town12_2554_false_scene_01_gen07_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen07_traffic_0009 (3 runs): reusing island 1 gen 6
+run counts: 54 simulated, 6 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0007.json
+generation 7: published 10 candidates
+generation 7 barrier: island_02 is here (1/5)
+generation 7 barrier: island_03 is here (2/5)
+generation 7 barrier: island_01 is here (3/5)
+generation 7 barrier: island_04 is here (4/5)
+generation 7 barrier: island_05 is here (5/5)
+generation 7: 28 baseline-clean contexts from peers (0 already measured here), 28 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 7 best: town12_2554_false_scene_01_gen07_traffic_0000 fitness=0.0 selection_fitness=0.0 violation=0.0 (feasible 7/10)
+migration: 205 pooled, 190 unused, 190 with instruction fitness recorded, 1 positive
+migration: importing 1 contexts (positive_instruction)
+  island 3 gen 7
+migration: reusing the source island's baseline for 1 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 8, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.9s distance=54.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0001/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=27.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0003/run_instruction/rep_02 status=terminated_timeout returncode=-15
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.7s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=48.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.2s distance=49.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0005/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.7s distance=25.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.6s distance=26.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=27.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0006/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0006/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0006/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.6s distance=42.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=42.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0007/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0007/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0007/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=27.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0008/run_instruction/rep_02 status=completed_process returncode=1
+CARLA is unreachable
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0008/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0008/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0008/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.5m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0008/town12_2554_false_scene_01_gen08_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen08_traffic_0009 (3 runs): reusing island 3 gen 7
+run counts: 57 simulated, 3 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0008.json
+generation 8: published 10 candidates
+generation 8 barrier: island_01 is here (4/5)
+generation 8 barrier: island_02 is here (4/5)
+generation 8 barrier: island_03 is here (4/5)
+generation 8 barrier: island_05 is here (4/5)
+generation 8 barrier: island_04 is here (5/5)
+generation 8: 35 baseline-clean contexts from peers (0 already measured here), 35 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+operator_parameters=pymoo_defaults (unused ga_settings: mutation_rate, crossover_rate)
+migration=on
+selection_objective=instruction_with_baseline_constraint
+generation 8 best: town12_2554_false_scene_01_gen08_traffic_0002 fitness=46.667 selection_fitness=46.667 violation=0.0 (feasible 10/10)
+migration: 240 pooled, 224 unused, 224 with instruction fitness recorded, 5 positive
+migration: importing 4 contexts (positive_instruction)
+  island 3 gen 8
+  island 2 gen 8
+  island 3 gen 8
+  island 5 gen 8
+migration: reusing the source island's baseline for 4 contexts
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/for_02_generated_false_scene_based_traffic_context_search_result.json (generation 9, 10 candidates)
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=34.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0000/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=34.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0000/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=34.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0000/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0000/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0000/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0000/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=41.2m
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0001/run_instruction/rep_00 status=terminated_stall_guard returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.7s distance=41.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0001/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=4.8s distance=41.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0001/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0001/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0001/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0001/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0002/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.4s distance=58.2m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0002/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.5s distance=57.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0002/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0002/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0002/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0002/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=55.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0003/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0003/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0003/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0003/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0003/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0003/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=27.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0004/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0004/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.5s distance=26.9m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0004/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0004/run_baseline/rep_00 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0004/run_baseline/rep_01 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0004/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0005/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.6m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0005/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0005/run_instruction/rep_02 status=completed_process returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0005/run_baseline/rep_00 status=completed_process returncode=0
+stopping CARLA via: pkill -9 -f 'carla-rpc-port=2000'
+starting CARLA via: su carla -c 'cd /opt/carla0915 && VK_ICD_FILENAMES=/etc/vulkan/icd.d/nvidia_icd.json ./CarlaUE4.sh -RenderOffScreen -nosound -carla-rpc-port=2000'
+CARLA is up
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0005/run_baseline/rep_01 status=terminated_stall_guard returncode=0
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0005/run_baseline/rep_02 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0006/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0006/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.1m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0006/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen09_traffic_0006 (3 runs): reusing island 3 gen 8
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.2s distance=32.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0007/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0007/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=5.3s distance=31.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0007/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen09_traffic_0007 (3 runs): reusing island 2 gen 8
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.8m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0008/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0008/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.4m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0008/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen09_traffic_0008 (3 runs): reusing island 3 gen 8
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.0m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0009/run_instruction/rep_00 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=54.3m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0009/run_instruction/rep_01 status=completed_process returncode=0
+instruction trigger armed (world_reload) at game_time=0.1s
+instruction trigger fired at game_time=3.8s distance=53.7m
+ran /workspace/vla-contradiction-test/output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/03_carla_simulation/gen_0009/town12_2554_false_scene_01_gen09_traffic_0009/run_instruction/rep_02 status=completed_process returncode=0
+skipped baseline for town12_2554_false_scene_01_gen09_traffic_0009 (3 runs): reusing island 5 gen 8
+run counts: 48 simulated, 12 baseline runs skipped as reused, 0 already finished, of 60 planned
+wrote output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/04_evaluation_gen_0009.json
+generation 9: published 10 candidates
+generation 9 barrier: island_02 is here (3/5)
+generation 9 barrier: island_04 is here (3/5)
+generation 9 barrier: island_05 is here (3/5)
+generation 9 barrier: island_03 is here (4/5)
+generation 9 barrier: island_01 is here (5/5)
+generation 9: 25 baseline-clean contexts from peers (0 already measured here), 25 new in output/eval_for_paper/no27_parked_obstacle_2554_Town12_propose_1023/island_00/instr_00/migration_pool.json
+generation 9 best: town12_2554_false_scene_01_gen09_traffic_0001 fitness=55.451 selection_fitness=55.451 violation=0.0 (archived, not evolved)
